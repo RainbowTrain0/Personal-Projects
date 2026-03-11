@@ -1,4 +1,4 @@
-# Personal-Projectscat > README.md << 'EOF'
+# Personal-Projectscat
 # Java CLI Task Manager
 
 A command-line task management application built in Java.

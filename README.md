@@ -1,4 +1,4 @@
-# Personal-Projectscat
+# Personal-Projects
 # Java CLI Task Manager
 
 A command-line task management application built in Java.

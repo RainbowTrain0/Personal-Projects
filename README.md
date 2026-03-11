@@ -12,6 +12,4 @@ A command-line task management application built in Java.
 Compile and run Main.java in any Java IDE or from the command line.
 EOF
 
-git add README.md
-git commit -m "Add README"
-git push
+
